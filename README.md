@@ -1,4 +1,6 @@
 \# Real-Time SCADA Dashboard
+<img width="1698" height="715" alt="Screenshot 2026-05-07 194124" src="https://github.com/user-attachments/assets/ec3f0308-9f91-4535-bff3-d77fe6b48e25" />
+
 
 
 
